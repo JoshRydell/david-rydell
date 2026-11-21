@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//David Rydell Tribute//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:david-rydell-funeral-20261210@tribute
+DTSTAMP:20261121T000000Z
+DTSTART:20261210T150000Z
+DTEND:20261210T160000Z
+SUMMARY:Funeral of David Rydell
+LOCATION:Bluebell Crematorium\, Old London Road\, Halstead\, Kent\, TN14 7AE
+DESCRIPTION:Funeral service for David Rydell at Bluebell Crematorium\, 3pm.\nFollowed by a reception at The Rose & Crown Farnborough\, Farnborough Way\, Green Street Green\, Orpington BR6 6BT.\nhttps://davidrydell.muchloved.com/
+END:VEVENT
+END:VCALENDAR
