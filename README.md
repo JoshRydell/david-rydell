@@ -10,14 +10,14 @@ hosted free on GitHub Pages.
 2. Push this folder to it:
 
    ```bash
-   git remote add origin https://github.com/<your-username>/david-rydell.git
+   git remote add origin https://github.com/JoshRydell/david-rydell.git
    git push -u origin main
    ```
 
 3. On GitHub, open the repository's **Settings → Pages**, set **Source** to
    *Deploy from a branch*, choose `main` and `/ (root)`, and save.
 4. After a minute the page will be live at
-   `https://<your-username>.github.io/david-rydell/`.
+   `https://joshrydell.github.io/david-rydell/`.
 
 ## Editing
 
